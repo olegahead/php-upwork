@@ -1,5 +1,5 @@
 {
-    "name": "olegahead/php-upwork",
+    "name": "upwork/php-upwork",
     "description": "PHP bindings for Upwork API",
     "version": "v1.4.1",
     "type": "library",
